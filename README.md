@@ -3,6 +3,7 @@ This repository contains:
 1) update_firm_score.py- updates FIRM scores by different hypotheses. 
 2) parse_open_target_data.py- script for retrieving and parsing open targets data.
 3) compare_new_pwas_results_to_GT.py- compares the new PWAS results (after the scores have been updated) with the ground truth.
+4) README
 
 Running PWAS with new hypotheses for scoring LoF mutations:
 1) Clone this repository.
